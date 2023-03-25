@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(to bottom right , rgb(101, 255, 255) , rgb(255, 255, 113) , rgb(121, 255, 121) , rgb(248, 49, 49));
+}
+
+h1 {
+    color : rgb(0, 110, 255);
+    background-color : cornsilk;
+}
+
+#show_sketch {
+    float:right;
+}
+
+#score {
+    font-size: 40;
+    font-weight: bolder;
+    float:left;
+    margin-left: 80px;
+}
+
+#timer {
+    font-size: 40;
+    font-weight: bolder;
+    float:right;
+    margin-right: 80px;
+}
+
+#sketch {
+    font-size: 30;
+    font-weight: bolder;
+}
+
+#confidence {
+    font-size: 30;
+    font-weight: bolder;
+}
+
+#draw_sketch {
+    font-size: 30;
+    font-weight: bolder;
+    color: red;
+}
